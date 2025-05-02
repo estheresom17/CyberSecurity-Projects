@@ -1,6 +1,7 @@
 
 ## 🛡️ Cybersecurity Portfolio
 Welcome to my cybersecurity repository—a curated collection of my learning journey, hands-on tasks, writeups, and personal blog posts.
+![img](cysec.png)
 
 This repo includes:
 
