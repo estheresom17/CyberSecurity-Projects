@@ -22,6 +22,9 @@ This repo includes:
 
 [Breaking IN- A walkthrough of my first vulnhub ctf challenge](https://medium.com/@estheresom17/%EF%B8%8F-breaking-in-a-walkthrough-of-my-first-vulnhub-ctf-challenge-a63318861f37?source=user_profile_page---------1-------------b9f0cdb794cb----------------------)
 
+[Hacking the Human Firewall: Psychological Exploits in Ethical Hacking and Defence Training](https://medium.com/@estheresom17/hacking-the-human-firewall-psychological-exploits-in-ethical-hacking-and-defence-training-00fde5b890cc)
+
+[💉 SQL Injection for Beginners: How I Found a Vulnerability in a Test Website.](https://medium.com/@estheresom17/sql-injection-for-beginners-how-i-found-a-vulnerability-in-a-test-website-a98c99fa5b37)
 
 
 ## 🛠️ Tools & Scripts – Useful snippets, payloads, or configurations I’ve created or customized
